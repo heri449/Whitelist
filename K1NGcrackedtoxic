@@ -1,4 +1,4 @@
-local whitelistURL = "https://raw.githubusercontent.com/02052011Rafael/02052011Rafael/refs/heads/main/whitelist.txt"
+
 
 local HttpService = game:GetService("HttpService")
 local Players = game:GetService("Players")
